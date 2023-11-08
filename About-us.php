@@ -14,7 +14,7 @@
         <div class="col-md-12">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="card" style="">
+                    <div class="card">
                         <img src="img/IMG_20230306_063138.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card" style="">
+                    <div class="card">
                         <img src="img/Screenshot_20231106_111446.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card" style="">
+                    <div class="card">
                         <img src="img/IMG_20230306_063138.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
