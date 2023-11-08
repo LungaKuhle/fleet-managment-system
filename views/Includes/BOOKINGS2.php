@@ -1,5 +1,5 @@
 
-<?php include 'header.php';?>
+<?php include './views/header.php';?>
 <link rel="stylesheet" href="css/style.css">
 <!DOCTYPE html>
 <html lang="en">

@@ -6,5 +6,5 @@
     $extra = 'pageHome.php';
     header("Location: $http//$host$uri/$extra");
     exit;
-	<?php phpinfo(); ?>
+	
 ?>

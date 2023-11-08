@@ -1,32 +1,17 @@
 
-<?php include 'header.php';?>
-<link rel="stylesheet" href="css/style.css">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  	<title>Bootstrap Table Reservation Form Template Design</title>
-  	<meta charset="utf-8">
-  	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-  	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-    <!-- Bootstrap JS -->
-  	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-</head>
-<body>
-
+<?php include './views/header.php'; ?>
 
 
 
     <!-- Table Reservation Form -->
     <div id= "Main-Content">
-    <section id="BOOK-A-RIDE" class="BOOK A RIDE">
+        <div class="container mt-5">
+        <section id="BOOK-A-RIDE" class="BOOK A RIDE">
         <div class="container" data-aos="fade-up">
             <div class="row">
-    			<div class="col-md-8 offset-md-2 text-center">
-    				<h2 class="text-primary">Book A RIDE</h2>
-    				<p class="mb-5">Bootstrap table reservation form template design is created by using bootstrap where users can book online restaurant tables, food orders according to yourself.</p>
+    			<div class="col-md-8">
+    				<h1 class="">BOOK A RIDE</h1>
+    				<p class="my-5">Bootstrap table reservation form template design is created by using bootstrap where users can book online restaurant tables, food orders according to yourself.</p>
     			</div>
     		</div>
 
@@ -54,10 +39,13 @@
               <div class="form-group">
                     <textarea class="form-control" name="message" placeholder="Message"></textarea>
               </div>
-              <button type="submit" class="btn btn-primary float-right mt-3">APPROVE THE RIDE</button>
+
+              <button type="submit" class="btn btn-primary mt-3">APPROVE THE RIDE</button>
             </form>
         </div>
     </section>
+        </div>
+    </div>
     <!-- End Table Reservation Form -->
-</body>
-</html>
+<!-- End of Page Code -->
+<?php include './views/footer.php'; ?>

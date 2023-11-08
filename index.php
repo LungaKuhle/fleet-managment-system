@@ -5,7 +5,7 @@
 <!-- Insert Page Code here -->
 <div class="jumbotron">
         <div class="container">
-            <h1>Welcome to our Fleet Taxi Association!</h1>
+            <h1> Main Welcome to our Fleet Taxi Association!</h1>
             <p>Are you looking for a reliable taxi service? Your search ends here! Whether you need a ride to the airport,
                 a quick trip around the city, or a long-distance journey, we've got you covered.</p>
             <p>Ready to book a ride? Click the button below:</p>
