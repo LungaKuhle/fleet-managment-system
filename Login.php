@@ -1,5 +1,5 @@
 <?php include './views/header.php'; ?>
-<link rel="stylesheet" href="css/style.css">
+
 <?php
 session_start();
 
@@ -11,6 +11,7 @@ $dbname = "fleet-management-system";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    
     $email = $_POST["email"];
     $password = $_POST["password"];
 
@@ -26,7 +27,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($result->num_rows > 0) {
         // User is authenticated
-        $_SESSION["email"] = $email;
+        $_SESSION['email'] = $email;
+        
+        
+        // $_SESSION["email"]="ll402001049@my.richfield.ac.za";
+
         header("Location: index.php"); // Redirect to the Home page
     } else {
         // Authentication failed
@@ -48,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <h1 class="text-center mt-5">Login</h1>
 
         <div class="container">
-            <form id="loginForm" method="post" action="index.php">
+            <form id="loginForm" method="post" action="login.php">
 
                 <div class="row mt-3">
                     <div class="col-md-3">

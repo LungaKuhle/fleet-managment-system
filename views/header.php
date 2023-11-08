@@ -1,6 +1,10 @@
 <!-- Header code and doc start -->
 <?php
 
+
+
+
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -75,17 +79,17 @@
         echo '  <div class="collapse navbar-collapse justify-content-end" ;id="collapsibleNavbar">';
         echo ' <ul class="navbar-nav">';
         echo '   <li class="nav-item">';
-        echo '      <a class="nav-link" href="login.php">logout hidden</a>';
+        echo '      <a class="nav-link" href="logout.php">Sign Out</a>';
         echo '    </li>';
 
         echo '   </ul>';
 
         echo '   </div>';
-      } else {
+      } else if (!isset($_SESSION['email'])){
         echo '  <div class="collapse navbar-collapse justify-content-end" ;id="collapsibleNavbar">';
         echo ' <ul class="navbar-nav">';
         echo '   <li class="nav-item">';
-        echo '      <a class="nav-link text-white2" href="login.php">Login show </a>';
+        echo '      <a class="nav-link" href="login.php">Login</a>';
         echo '    </li>';
 
         echo '   </ul>';

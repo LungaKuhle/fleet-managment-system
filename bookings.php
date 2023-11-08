@@ -33,11 +33,11 @@
                     <input type="time" class="form-control" name="time" id="time" placeholder="Time">
                 </div>
                 <div class="col-lg-4 col-md-6 form-group">
-                    <input type="number" class="form-control" name="people" id="people" placeholder="No. of people">
+                    <input type="number" class="form-control" min="0" name="people" id="people" placeholder="No. of people">
                 </div>
               </div>
               <div class="form-group">
-                    <textarea class="form-control" name="message" placeholder="Message"></textarea>
+                    <textarea class="form-control" name="message" placeholder="Things to take note of Eg. luggage..."></textarea>
               </div>
 
               <button type="submit" class="btn btn-primary mt-3">APPROVE THE RIDE</button>
