@@ -1,0 +1,75 @@
+/* Header */
+
+
+
+
+/* Buttons */
+
+
+
+
+/* DropDowns */
+
+
+
+/* Body Elements */
+
+
+
+.Bglogin
+{
+    background-image: url('../img/taxi-icon.png');
+    /* opacity: 0.4; */
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+/* Footer */
+.footer {
+    bottom: 0;
+    background-color: #FAD02B;
+    color: black;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 50px;
+    margin-bottom: 0;
+    animation: slideFromLeft 2s ease-in-out;
+}
+
+@keyframes slideFromLeft {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.container {
+    max-width: 960px;
+}
+
+.cta-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+
