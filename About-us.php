@@ -18,10 +18,10 @@
                         <img src="img/IMG_20230306_063138.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
-                            <h2 class="card-title">Jane Doe</h2>
+                            <h2 class="card-title">Lunga Kuhle Ntshiba</h2>
                             <p class="title">CEO & Founder</p>
-                            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                            <p>jane@example.com</p>
+                            <p>Very Much Well Focused</p>
+                            <p>Nthsiba1999@example.com</p>
 
                             <a href="mailto:" class="btn btn-primary">Contact</a>
                         </div>
@@ -32,10 +32,10 @@
                         <img src="img/Screenshot_20231106_111446.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
-                            <h2 class="card-title">Jane Doe</h2>
-                            <p class="title">CEO & Founder</p>
-                            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                            <p>jane@example.com</p>
+                            <h2 class="card-title">Thebogo</h2>
+                            <p class="title">COO & Founder</p>
+                            <p>Dedicated Planner</p>
+                            <p>MR Thebogo @example.com</p>
 
                             <a href="mailto:" class="btn btn-primary">Contact</a>
                         </div>
@@ -46,10 +46,10 @@
                         <img src="img/IMG_20230306_063138.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
 
-                            <h2 class="card-title">Jane Doe</h2>
-                            <p class="title">CEO & Founder</p>
-                            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                            <p>jane@example.com</p>
+                            <h2 class="card-title">Lunga Kuhle Nthsiba</h2>
+                            <p class="title">Engineer Of Program</p>
+                            <p>Very Good Work Ethic</p>
+                            <p>Ntshiba1999@example.com</p>
 
                             <a href="mailto:" class="btn btn-primary">Contact</a>
                         </div>

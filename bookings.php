@@ -1,3 +1,4 @@
+
 <?php include './views/header.php';
 
 
@@ -71,7 +72,7 @@ if (isset($_POST['submit'])) {
                 <div class="row">
                     <div class="col-md-8">
                         <h1 class="">BOOK A RIDE</h1>
-                        <p class="my-5">Bootstrap table reservation form template design is created by using bootstrap where users can book online restaurant tables, food orders according to yourself.</p>
+                        <p class="my-5">Please Make A Booking Order And Enjoy Our Services</p>
                     </div>
                 </div>
 
