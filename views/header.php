@@ -89,7 +89,7 @@
         echo '  <div class="collapse navbar-collapse justify-content-end" ;id="collapsibleNavbar">';
         echo ' <ul class="navbar-nav">';
         echo '   <li class="nav-item">';
-        echo '      <a class="nav-link" href="login.php">Login</a>';
+        echo '      <a class="nav-link" href="login.php">Signout</a>';
         echo '    </li>';
 
         echo '   </ul>';

@@ -1,6 +1,4 @@
-<?php include './views/header.php'; ?>
-
-<?php
+<?php include './views/header.php'; 
 session_start();
 
 $servername = "localhost";

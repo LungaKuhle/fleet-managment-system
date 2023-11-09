@@ -1,4 +1,4 @@
-<?php include './views/header.php';
+ <?php include './views/header.php';
 
 
 $servername = "localhost";
@@ -75,7 +75,7 @@ if (isset($_POST['submit'])) {
                     </div>
                 </div>
 
-                <form action="bookings.php" method="post" role="form">
+                <form action="Bookings1.php" method="post" role="form">
                     <div class="form-row">
                         <div class="col-lg-4 col-md-6 form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name">

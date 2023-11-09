@@ -1,0 +1,7 @@
+Booking Details:
+Name: lunga
+Email: 402001049@my.richfield.ac.za
+Phone: 346734
+Time: 15:07
+Number of People: 2
+Message: yes
