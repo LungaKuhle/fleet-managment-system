@@ -1,0 +1,7 @@
+Booking Details:
+Name: lunga
+Email: 402001049@my.richfield.ac.za
+Phone: 0782445678
+Time: 09:27
+Number of People: 5
+Message: yes please add bags and luggage

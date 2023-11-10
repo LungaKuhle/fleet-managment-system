@@ -1,0 +1,7 @@
+Booking Details:
+Name: Citizen Mtembu
+Email: 1e2@11
+Phone: 0768815555
+Time: 14:00
+Number of People: 2
+Message: 3 bags 
